@@ -13,9 +13,8 @@ Este projeto envolve o desenvolvimento de uma réplica da página de login do Gi
 - **Inserção de Senha:**  Ao clicar no campo "Password", você pode digitar sua senha. O campo é projetado para fornecer feedback visual, como pontos ou asteriscos para indicar os caracteres da senha. Além disso, a senha é ocultada durante a digitação para garantir a privacidade do usuário.
 
 ## Prévia
+![github](https://github.com/angelodesenvolvedor/LogindoGithub/assets/98216100/b5313608-fa5d-4d43-9c5f-49edaf81a740)
 
-![Réplica da Página de Login do GitH![github](https://github.com/angelodesenvolvedor/LogindoGithub/assets/98216100/85c19083-1077-485c-941c-dcb58eb670ab)
-ub](./caminho/para/captura_de_tela.png)
 
 ## Como Usar
 
