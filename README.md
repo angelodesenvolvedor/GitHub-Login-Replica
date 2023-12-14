@@ -1,6 +1,4 @@
-# LogindoGithub
-
-# Réplica da Página de Login do GitHub
+# GitHub Login Replica
 
 ## Visão Geral
 
