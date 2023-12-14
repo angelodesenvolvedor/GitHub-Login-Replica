@@ -14,7 +14,8 @@ Este projeto envolve o desenvolvimento de uma réplica da página de login do Gi
 
 ## Prévia
 
-![Réplica da Página de Login do GitHub](./caminho/para/captura_de_tela.png)
+![Réplica da Página de Login do GitH![github](https://github.com/angelodesenvolvedor/LogindoGithub/assets/98216100/85c19083-1077-485c-941c-dcb58eb670ab)
+ub](./caminho/para/captura_de_tela.png)
 
 ## Como Usar
 
@@ -24,7 +25,3 @@ Este projeto envolve o desenvolvimento de uma réplica da página de login do Gi
 
 - HTML
 - CSS
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](./LICENSE).
